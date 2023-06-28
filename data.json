@@ -30,6 +30,12 @@
         "price": 6.99
     },
     {
+        "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic6.jpg?raw=true",
+        "id": "6",
+        "isFavorite": false,
+        "price": 8.99
+    },
+    {
         "url": "https://github.com/bobziroll/scrimba-react-bootcamp-images/blob/master/pic7.jpg?raw=true",
         "id": "7",
         "isFavorite": false,
